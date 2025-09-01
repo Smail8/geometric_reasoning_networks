@@ -1,0 +1,16 @@
+numpy==1.24.3
+matplotlib==3.7.5
+pandas==2.0.3
+pandarallel==1.6.5
+plotly==5.21.0
+flask
+tqdm
+opencv-python
+python-fcl==0.7.0.6
+torch==2.2.2
+torchvision==0.17.2
+lightning==2.2.1
+torch_geometric==2.5.2
+torchmetrics==1.3.2
+typing
+tensorboard==2.14.0

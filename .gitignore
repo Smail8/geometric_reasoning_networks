@@ -1,0 +1,7 @@
+lightning_logs/
+GRN_datasets/
+GRN_models/
+__pycache__/
+predict.py
+
+
