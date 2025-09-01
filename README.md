@@ -1,5 +1,5 @@
 # Geometric Reasoning Networks (GRN)
-This is the official repository for the ICLR 2025 conference paper: ["Learning Geometric Reasoning Networks for Robot Task and Motion Planning"](https://openreview.net/forum?id=ajxAJ8GUX4)
+This is the official repository for the ICLR 2025 conference paper: ["Learning Geometric Reasoning Networks for Robot Task and Motion Planning"](https://openreview.net/forum?id=ajxAJ8GUX4).
 
 <img src="./assets/model.png" width="100%" height="100%">
 
