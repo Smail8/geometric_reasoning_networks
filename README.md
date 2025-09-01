@@ -1,7 +1,7 @@
 # Geometric Reasoning Networks (GRN)
 This is the official repository for the ICLR 2025 conference paper: "Learning Geometric Reasoning Networks for Robot Task and Motion Planning".
 
-<img src="assets/model.png" width="100%" height="100%">
+<img src="./assets/model.png" width="100%" height="100%">
 
 ## Installation (Docker)
 A CUDA runtime image and all dependencies are provided via `Dockerfile`.
